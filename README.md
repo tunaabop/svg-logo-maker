@@ -5,7 +5,7 @@
 This is a command line application that uses Node.js and takes in user input to produce a simple 3-letter logo of unique color and shape that is an [SVG file](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics). The app prompts the user to choose a color and shape, provide text for the logo, and save the generated SVG to a `.svg` file.
 
 ## Walkthrough Video
-This is a command line application, therefore will not be deployed. Here is the [link]() to a walkthrough video that demonstrates its functionality and passes written jest tests. 
+This is a command line application, therefore will not be deployed. Here is the [link](https://drive.google.com/file/d/1-n10TWwoxJQDN6vsBuo5zbTT3dl_Fjdp/view) to a walkthrough video that demonstrates its functionality and passes written jest tests. 
 
 The walkthrough video demonstrates how a user would enter responses to all of the prompts in the application and invoke the application from the command line as well as how all tests are passed from the command line. It also shows the generated SVG file opened in the browser. The image in the browser should reflect the choices made by the user (text, shape, and colors).
 
