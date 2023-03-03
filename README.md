@@ -30,10 +30,16 @@ npm test
 
 With the current written unit tests, each shape class will be tested for a `render()` method that successfully returns a string for the corresponding SVG file with the given shape color.
 
+## How to Contribute <a name="contribute"/>
 
-## Additional SVG Resources
+You can create a pull request or email me! 
+  
+## Questions? <a name="questions"/>
 
-* [Example SVG](https://static.fullstack-bootcamp.com/fullstack-ground/module-10/circle.svg)
+Email: tinawang158@gmail.com or
+Checkout my GitHub Profile [@tunaabop](https://github.com/tunaabop)
+
+## Sources Used for this Project
 
 * [Scalable Vector Graphics (SVG)](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 
