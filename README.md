@@ -1,4 +1,4 @@
-# 10 Object-oriented Programming: SVG Logo Maker
+# SVG Brand Logo Maker - Command Line App
 
 ## Description
 
